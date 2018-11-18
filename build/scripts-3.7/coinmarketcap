@@ -1,0 +1,5 @@
+#!/usr/local/opt/python/bin/python3.7
+
+from cmc import coinmarketcap
+
+coinmarketcap.main()
